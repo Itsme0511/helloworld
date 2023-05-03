@@ -1,0 +1,44 @@
+	Boat Log Text:
+
+**First Data!
+Register Device : true		(MainWindow.cpp - registerDevice ... 640);
+Default File Path : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile		(MainWindow.cpp - getDefaultJsonFile ... 1696);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-145f&PID-02f3.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-0F51.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4130.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4166.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4167.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4168.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4169.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4170.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4171.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4172.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4173.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4174.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4175.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4176.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4177.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4178.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+Default Json File Name : C:/Program Files (x86)/BOAT_Audio Tool_Setup_V3.1/DefaultFile/VID-3206&PID-4179.json		(MainWindow.cpp - getDefaultJsonFile ... 1704);
+Read Json File : true		(MainWindow.cpp - readJsonFile ... 1313);
+OpenDevice : noDevice		(MainWindow.cpp - InitMyDialog ... 524);
+DeviceInsert : true		(MainWindow.cpp - nativeEvent ... 670);
+OpenDevice : noDevice		(MainWindow.cpp - InitDeviceInput ... 920);
+DeviceInsert : true		(MainWindow.cpp - nativeEvent ... 670);
+OpenDevice : noDevice		(MainWindow.cpp - InitDeviceInput ... 920);
